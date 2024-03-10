@@ -1,0 +1,106 @@
+
+/* Element | file:///C:/Users/User/OneDrive/Documents/education-master/index.html */
+
+.pt-10 {
+  color: #e3f5ff;
+}
+
+/* main.css | file:///C:/Users/User/OneDrive/Documents/education-master/css/main.css */
+
+.banner-content .primary-btn:hover {
+  /* background-color: #fff; */
+  /* color: #f7631b; */
+  background: #fff;
+  color: #2c1bf7;
+}
+
+.banner-content .primary-btn {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgb(6, 2, 74) 0%, rgb(12, 12, 103) 35%, rgb(5, 24, 54) 100%)
+}
+
+.single-feature:hover .title {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(27, 58, 149) 35%, rgb(6, 14, 132) 100%);
+}
+
+@media (max-width: 991px) {
+  .single-feature .title {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(19, 15, 87) 0%, rgb(22, 22, 181) 35%, rgb(33, 147, 171) 100%);
+  }
+}
+
+.single-feature:hover .desc-wrap a {
+  /* color: #f7631b; */
+  color: #1f5ed7;
+}
+
+.popular-course-area .owl-dot.active {
+  /* background: #f7631b; */
+  background: #1b1ef7;
+}
+
+.review-area .owl-dot.active {
+  /* background: #f7631b; */
+  background: #1b52f7;
+}
+
+.single-blog:hover h5 {
+  /* color: #f7631b; */
+  color: #2c1bf7;
+}
+
+.single-blog .details-btn:hover {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.footer-area {
+  /* background-color: #04091e; */
+  background-color: #040b24;
+}
+
+.cta-two-area {
+  /* background: #f7631b; */
+  background: #140ed7;
+}
+
+
+/* main.css | file:///C:/Users/User/OneDrive/Documents/education-master/css/main.css */
+
+.single-footer-widget ul li a:hover {
+  /* color: #f7631b; */
+  color: #35bcca;
+}
+
+.single-footer-widget .btn {
+  /* background: #f7631b; */
+  background: #1b33f7;
+}
+
+.footer-bottom .lnr, .footer-bottom a {
+  /* color: #f7631b; */
+  color: #5584f4;
+}
+
+
+/* main.css | file:///C:/Users/User/OneDrive/Documents/education-master/css/main.css */
+
+.search-course-area .details-content .single-detials span {
+  /* color: #f7631b; */
+  color: #2d4eff;
+}
+
+#logo img{
+  height: 30px;
+}
+
+
+/* main.css | file:///C:/Users/User/OneDrive/Documents/education-master/css/main.css */
+
+.active-upcoming-event-carusel .owl-dot.active {
+  /* background: #f7631b; */
+  background: #221bf7;
+}
+
